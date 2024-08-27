@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.saturday.Headers">
+      <class name="com.java.TestAPI">
         <methods>
-          <include name="RetestHead"/>
+          <include name="day1"/>
         </methods>
-      </class> <!-- com.saturday.Headers -->
+      </class> <!-- com.java.TestAPI -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
